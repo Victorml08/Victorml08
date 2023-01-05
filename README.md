@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Victor Magalhães</h1>
 <h3 align="center">Sou um Analista de Dados em formação e apaixonado pelo poder da informação!</h3>
 
-- 🔭 Atualmente estou trabalhando com **algoritmos de regressão em Machine Learning**
+- 🔭 Atualmente estou estudando **Processamento distribuído e Machine Learning**
 
 - 🌱 Também estou finalizando mais um projeto de portfólio: **Análise dos Microdados do ENEM!**
 
