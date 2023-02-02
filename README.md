@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estudando **Processamento distribuído e Machine Learning**
 
-- 🌱 Também estou finalizando mais um projeto de portfólio: **Análise dos Microdados do ENEM!**
+- 🌱 Também estou finalizando mais um projeto de portfólio: **Prevendo o preço de casas com Machine Learning**
 
 - 💬 Me pergunte sobre: **Análise de dados em Python, Power BI, SQL, Machine Learning**
 
