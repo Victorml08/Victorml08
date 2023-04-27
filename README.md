@@ -1,11 +1,15 @@
 <h1 align="center">Olá 👋, Meu nome é Victor Magalhães</h1>
-<h3 align="center">Sou um Analista de Dados em formação e apaixonado pelo poder da informação!</h3>
+<h3 align="center">Sou um Cientista de Dados em formação e apaixonado pelo poder da informação!</h3>
 
-- 🔭 Atualmente estou estudando **Processamento distribuído e Machine Learning**
+- 🔭 Atualmente estou estudando **Machine Learning, Deep Learning e Analytics**
 
-- 🌱 Também estou finalizando mais um projeto de portfólio: **Prevendo o preço de casas com Machine Learning**
+- 🐍 A linguagem de programação que mais utilizo atualmente é **Python**.
 
-- 💬 Me pergunte sobre: **Análise de dados em Python, Power BI, SQL, Machine Learning**
+- 🌱 Estou começando um novo projeto de portfólio: **Detecção de Fraudes de Cartão de Crédito**
+
+- 💬 Me pergunte sobre: **Análise de Dados, Power BI, SQL, Machine Learning**
+
+- 🤓 Estou aberto para oportunidades de trabalho!
 
 - 📫 Me encontre facilmente enviando um email para **victorml08@gmail.com**
 
