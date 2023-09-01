@@ -1,11 +1,11 @@
-<h1 align="center">print('Hello World! I'm Victor')</h1>
+<h1 align="center">print('Hello World!')</h1>
 
 <p align="center">
   <img width="400" src=https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif alt="animated" />
 </p>
 
 
-I'm a Data Analyst, aspiring Data Scientist, passionate about the power of information. Feel invited to take a look at my projects.
+Hey, my name is Victor. I'm a Data Analyst, aspiring Data Scientist, passionate about the power of information. Feel invited to take a look at my projects.
 
 I mostly code in **Python**. I also adore dealing with databases, so **SQL** is my wingman.
 
